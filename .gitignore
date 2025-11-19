@@ -3,3 +3,4 @@
 *.cpp
 
 !important.py
+[aeiou]*.php
